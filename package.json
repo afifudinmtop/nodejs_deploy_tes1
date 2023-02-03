@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_deploy_tes1",
+  "version": "1.0.0",
+  "description": "nodejs_deploy_tes1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Afifudin Maarif",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
